@@ -1,5 +1,5 @@
 # FATracker
-FATracker is a program to instantly know the data of your Splinterlands accounts
+FATracker is a program to instantly know the data of your Splinterland accounts
 
 # About FATracker
 View your SPS account details (when you joined Splinterlands, your collection power, battles played and % won, which guild are you member).
