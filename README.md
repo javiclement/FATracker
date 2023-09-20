@@ -7,7 +7,7 @@ View your SPS account details (when you joined Splinterlands, your collection po
 - Rental Income by day.
 
 # Instructions
-- Download FATracker.zip
+- Download the latest version of [FATracker.zip](https://github.com/javiclement/FATracker/releases/download/v.0.1.1/FATracker.zip)
 - Unzip the file FATracker.zip wherever you want.
 - Run the exe file.
 - Insert you account name and select and option.
