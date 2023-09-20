@@ -6,11 +6,14 @@ View your SPS account details (when you joined Splinterlands, your collection po
 - Rental cost by day.
 - Rental Income by day.
 
-# Instructions
+# Instructions for Windows
 - Download the latest version of [FATracker.zip](https://github.com/javiclement/FATracker/releases/download/v.0.1.1/FATracker.zip)
 - Unzip the file FATracker.zip wherever you want.
 - Run the exe file.
 - Insert you account name and select and option.
+
+# Source code
+You can download the Python script and modify it as you wish. You can also use the program on operating systems such as Linux or Mac if you install the necessary dependencies.
 
 # Made with ❤️
 Program developed with Python and the Tkinter and PyInstaller libraries.
